@@ -1,6 +1,6 @@
 "use strict"; // treat all JS code as newer version
 
-alert(3 + 3)  // we are using node js! not browser.
+// alert(3 + 3)  // we are using node js! not browser.
 
 
 /*
@@ -15,3 +15,7 @@ symbol-  that is use for uniqueness.
 
 object-  
 */
+
+console.log(typeof null); // output ojbect
+console.log(typeof undefined); //output undefined bcz of this is undefined type
+
